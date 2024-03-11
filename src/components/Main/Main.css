@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-block {
+  width: 70%;
+}
+
+.logo-block {
+  margin-top: 20px;
+}
